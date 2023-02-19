@@ -6,3 +6,4 @@ This is a repository of my various Python scripts.
 
 - GEOINT
 - EXCHANGES
+  - Huobi
